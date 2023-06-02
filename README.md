@@ -1,4 +1,4 @@
+git pull
 My first readme
-Updated 
+Updated
 git branch
-
